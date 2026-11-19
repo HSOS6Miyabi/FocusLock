@@ -1,0 +1,9 @@
+# First-run executable built by 启动工具.cmd
+/GameFocusGuard.exe
+/GameFocusGuard.pdb
+# Local logs and build artifacts
+*.log
+*.zip
+bin/
+obj/
+.vs/
